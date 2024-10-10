@@ -1,23 +1,41 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Filmes e Desenhos',
+    'Qual é o nome da coruja de Harry Potter?',
+    'Edwiges'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Filmes e Desenhos',
+    'Qual filme da Barbie onde ela se chama Merlia Summers?',
+    'Barbie em Vida de Sereia'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Filmes e Desenhos',
+    'Qual perssonagem de Looney Tunes utiliza uma Calça de Shopping?',
+    'Parolino'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Filmes e Desenhos',
+    'Quem é a antagonista do filme Enrolados?',
+    'Gothel'
 )
+
+criaCartao(
+    'Filmes e Desenhos',
+    'Ursula é a vilã de qual filme?',
+    'Pequena Sereia'
+)
+
+criaCartao(
+    'Filmes e Desenhos',
+    'Qual o nome do gato que persegue Jerry?',
+    'Tommas'
+)   
+    
+criaCartao(
+    'Filmes e Desenhos',
+    'Qual é o nome do desenho onde estão as personagens Apple White e Raven Queen?',
+    'Ever After High'
+)      
