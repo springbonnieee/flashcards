@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Filmes e Desenhos',
     'Qual perssonagem de Looney Tunes utiliza uma Calça de Shopping?',
-    'Parolino'
+    'Patolino'
 )
 
 criaCartao(
